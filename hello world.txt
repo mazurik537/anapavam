@@ -7,5 +7,9 @@ echo 'Hello world!!!'
 
 </php>
 
+<<<<<<< HEAD
+Пестряков Сергей Викторович
+=======
 4pda.ru
 
+>>>>>>> master
